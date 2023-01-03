@@ -1,0 +1,12 @@
+2023-01-03 08:53:40.141 [main] INFO  org.prop.PropertyFile1 - logger object is created
+2023-01-03 08:53:40.951 [main] INFO  org.prop.PropertyFile1 - Firefox jar are downloaded and setup
+2023-01-03 08:53:47.484 [main] INFO  org.prop.PropertyFile1 - Firefox object is created and browser is launched
+2023-01-03 08:53:47.509 [main] INFO  org.prop.PropertyFile1 - Properties object is created
+2023-01-03 08:53:47.509 [main] INFO  org.prop.PropertyFile1 - File object is created and location of properties is provided
+2023-01-03 08:53:47.510 [main] INFO  org.prop.PropertyFile1 - FileInputStream object is created to read the properties file
+2023-01-03 08:53:47.511 [main] INFO  org.prop.PropertyFile1 - InputStream is loaded
+2023-01-03 08:53:50.461 [main] INFO  org.prop.PropertyFile1 - Url is launched
+2023-01-03 08:53:51.036 [main] INFO  org.prop.PropertyFile1 - Username is given to field from properties file
+2023-01-03 08:53:51.152 [main] INFO  org.prop.PropertyFile1 - Password is given to field from properties file
+2023-01-03 08:53:52.762 [main] INFO  org.prop.PropertyFile1 - Login button is clicked
+2023-01-03 08:53:52.772 [main] INFO  org.prop.PropertyFile1 - Browser is closed
