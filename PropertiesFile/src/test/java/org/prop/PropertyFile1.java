@@ -29,6 +29,8 @@ public class PropertyFile1 {
 	private void logCreation() {
 		logger = LogManager.getLogger(PropertyFile1.class.getName());
 		logger.info("logger object is created");
+		
+		
 	}
 
 	@BeforeMethod
